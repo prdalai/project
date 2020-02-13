@@ -1,40 +1,404 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+	<?xml version="1.0" encoding="UTF-8" ?>
+	<rss version="2.0">
 
-<channel>
-  <title>Books</title>
-  <link>https://raw.githubusercontent.com/</link>
-  <description>Free web building tutorials</description>
-  
-  <item>
-<title><![CDATA[AlgorithmsNotesForProfessionals]]></title>
-<link>https://github.com/prdalai/book/raw/master/AlgorithmsNotesForProfessionals.pdf/</link>
-<category><![CDATA[ cameras ]]></category>
-<description>
-<![CDATA[
-algo book
-]]>
-</description>
-</item>
-<item>
-<title><![CDATA[AndroidNotesForProfessionals]]></title>
-<link>https://github.com/prdalai/book/raw/master/AndroidNotesForProfessionals.pdf/</link>
-<category><![CDATA[ cameras ]]></category>
-<description>
-<![CDATA[
-algo book
-]]>
-</description>
-</item>
-<item>
-<title><![CDATA[AndroidNotesForProfessionals]]></title>
-<link>https://github.com/prdalai/book/raw/master/AndroidNotesForProfessionals.pdf/</link>
-<category><![CDATA[ cameras ]]></category>
-<description>
-<![CDATA[
-algo book
-]]>
-</description>
-</item>
-</channel>
-</rss>
+	<channel>
+	  <title>Books</title>
+	  <link>https://raw.githubusercontent.com/</link>
+	  <description>Free web building tutorials</description>
+	  
+	<item>
+		<title><![CDATA[AlgorithmsNotesForProfessionals]]></title>
+		<link>https://github.com/prdalai/book/raw/master/AlgorithmsNotesForProfessionals.pdf/</link>
+		<category><![CDATA[ cameras ]]></category>
+		<description>
+		<![CDATA[algo book]]>
+		</description>
+	</item>
+	<item>
+		<title><![CDATA[AndroidNotesForProfessionals]]></title>
+		<link>https://github.com/prdalai/book/raw/master/AndroidNotesForProfessionals.pdf/</link>
+		<category><![CDATA[ cameras ]]></category>
+		<description>
+		<![CDATA[algo book]]>
+		</description>
+	</item>
+	<item>
+		<title><![CDATA[Angular2NotesForProfessionals]]></title>
+		<link>https://github.com/prdalai/book/raw/master/Angular2NotesForProfessionals.pdf/</link>
+		<category><![CDATA[ cameras ]]></category>
+		<description>
+		<![CDATA[algo book]]>
+		</description>
+	</item>
+	<item>
+		<title><![CDATA[AngularJSNotesForProfessionals]]></title>
+		<link>https://github.com/prdalai/book/raw/master/AngularJSNotesForProfessionals.pdf/</link>
+		<category><![CDATA[ cameras ]]></category>
+		<description>
+		<![CDATA[algo book]]>
+		</description>
+	</item>
+	<item>
+		<title><![CDATA[BashNotesForProfessionals]]></title>
+		<link>https://github.com/prdalai/book/raw/master/BashNotesForProfessionals.pdf/</link>
+		<category><![CDATA[ cameras ]]></category>
+		<description>
+		<![CDATA[algo book]]>
+		</description>
+	</item>
+	<item>
+		<title><![CDATA[CNotesForProfessionals]]></title>
+		<link>https://github.com/prdalai/book/raw/master/CNotesForProfessionals.pdf/</link>
+		<category><![CDATA[ cameras ]]></category>
+		<description>
+		<![CDATA[algo book]]>
+		</description>
+	</item>
+	<item>
+		<title><![CDATA[CPlusPlusNotesForProfessionals]]></title>
+		<link>https://github.com/prdalai/book/raw/master/CPlusPlusNotesForProfessionals.pdf/</link>
+		<category><![CDATA[ cameras ]]></category>
+		<description>
+		<![CDATA[algo book]]>
+		</description>
+	</item>
+	<item>
+		<title><![CDATA[CSSNotesForProfessionals]]></title>
+		<link>https://github.com/prdalai/book/raw/master/CSSNotesForProfessionals.pdf/</link>
+		<category><![CDATA[ cameras ]]></category>
+		<description>
+		<![CDATA[algo book]]>
+		</description>
+	</item>
+	<item>
+		<title><![CDATA[CSharpNotesForProfessionals]]></title>
+		<link>https://github.com/prdalai/book/raw/master/CSharpNotesForProfessionals.pdf/</link>
+		<category><![CDATA[ cameras ]]></category>
+		<description>
+		<![CDATA[algo book]]>
+		</description>
+	</item>
+	<item>
+		<title><![CDATA[DotNETFrameworkNotesForProfessionals]]></title>
+		<link>https://github.com/prdalai/book/raw/master/DotNETFrameworkNotesForProfessionals.pdf/</link>
+		<category><![CDATA[ cameras ]]></category>
+		<description>
+		<![CDATA[algo book]]>
+		</description>
+	</item>
+	<item>
+		<title><![CDATA[EntityFrameworkNotesForProfessionals]]></title>
+		<link>https://github.com/prdalai/book/raw/master/EntityFrameworkNotesForProfessionals.pdf/</link>
+		<category><![CDATA[ cameras ]]></category>
+		<description>
+		<![CDATA[algo book]]>
+		</description>
+	</item>
+	<item>
+		<title><![CDATA[ExcelVBANotesForProfessionals]]></title>
+		<link>https://github.com/prdalai/book/raw/master/ExcelVBANotesForProfessionals.pdf/</link>
+		<category><![CDATA[ cameras ]]></category>
+		<description>
+		<![CDATA[algo book]]>
+		</description>
+	</item>
+	<item>
+		<title><![CDATA[GitNotesForProfessionals]]></title>
+		<link>https://github.com/prdalai/book/raw/master/GitNotesForProfessionals.pdf/</link>
+		<category><![CDATA[ cameras ]]></category>
+		<description>
+		<![CDATA[algo book]]>
+		</description>
+	</item>
+	<item>
+		<title><![CDATA[HTML5CanvasNotesForProfessionals]]></title>
+		<link>https://github.com/prdalai/book/raw/master/HTML5CanvasNotesForProfessionals.pdf/</link>
+		<category><![CDATA[ cameras ]]></category>
+		<description>
+		<![CDATA[algo book]]>
+		</description>
+	</item>
+	<item>
+		<title><![CDATA[HTML5NotesForProfessionals]]></title>
+		<link>https://github.com/prdalai/book/raw/master/HTML5NotesForProfessionals.pdf/</link>
+		<category><![CDATA[ cameras ]]></category>
+		<description>
+		<![CDATA[algo book]]>
+		</description>
+	</item>
+	<item>
+		<title><![CDATA[HaskellNotesForProfessionals]]></title>
+		<link>https://github.com/prdalai/book/raw/master/HaskellNotesForProfessionals.pdf/</link>
+		<category><![CDATA[ cameras ]]></category>
+		<description>
+		<![CDATA[algo book]]>
+		</description>
+	</item>
+	<item>
+		<title><![CDATA[HibernateNotesForProfessionals]]></title>
+		<link>https://github.com/prdalai/book/raw/master/HibernateNotesForProfessionals.pdf/</link>
+		<category><![CDATA[ cameras ]]></category>
+		<description>
+		<![CDATA[algo book]]>
+		</description>
+	</item>
+	<item>
+		<title><![CDATA[JavaEENotesForProfessionals]]></title>
+		<link>https://github.com/prdalai/book/raw/master/JavaEENotesForProfessionals.pdf/</link>
+		<category><![CDATA[ cameras ]]></category>
+		<description>
+		<![CDATA[algo book]]>
+		</description>
+	</item>
+	<item>
+		<title><![CDATA[JavaNotesForProfessionals]]></title>
+		<link>https://github.com/prdalai/book/raw/master/JavaNotesForProfessionals.pdf/</link>
+		<category><![CDATA[ cameras ]]></category>
+		<description>
+		<![CDATA[algo book]]>
+		</description>
+	</item>
+	<item>
+		<title><![CDATA[JavaScriptNotesForProfessionals]]></title>
+		<link>https://github.com/prdalai/book/raw/master/JavaScriptNotesForProfessionals.pdf/</link>
+		<category><![CDATA[ cameras ]]></category>
+		<description>
+		<![CDATA[algo book]]>
+		</description>
+	</item>
+	<item>
+		<title><![CDATA[KotlinNotesForProfessionals]]></title>
+		<link>https://github.com/prdalai/book/raw/master/KotlinNotesForProfessionals.pdf/</link>
+		<category><![CDATA[ cameras ]]></category>
+		<description>
+		<![CDATA[algo book]]>
+		</description>
+	</item>
+	<item>
+		<title><![CDATA[LaTeXNotesForProfessionals]]></title>
+		<link>https://github.com/prdalai/book/raw/master/LaTeXNotesForProfessionals.pdf/</link>
+		<category><![CDATA[ cameras ]]></category>
+		<description>
+		<![CDATA[algo book]]>
+		</description>
+	</item>
+	<item>
+		<title><![CDATA[LinuxNotesForProfessionals]]></title>
+		<link>https://github.com/prdalai/book/raw/master/LinuxNotesForProfessionals.pdf/</link>
+		<category><![CDATA[ cameras ]]></category>
+		<description>
+		<![CDATA[algo book]]>
+		</description>
+	</item>
+	<item>
+		<title><![CDATA[MATLABNotesForProfessionals]]></title>
+		<link>https://github.com/prdalai/book/raw/master/MATLABNotesForProfessionals.pdf/</link>
+		<category><![CDATA[ cameras ]]></category>
+		<description>
+		<![CDATA[algo book]]>
+		</description>
+	</item>
+	<item>
+		<title><![CDATA[MicrosoftSQLServerNotesForProfessionals]]></title>
+		<link>https://github.com/prdalai/book/raw/master/MicrosoftSQLServerNotesForProfessionals.pdf/</link>
+		<category><![CDATA[ cameras ]]></category>
+		<description>
+		<![CDATA[algo book]]>
+		</description>
+	</item>
+	<item>
+		<title><![CDATA[MongoDBNotesForProfessionals]]></title>
+		<link>https://github.com/prdalai/book/raw/master/MongoDBNotesForProfessionals.pdf/</link>
+		<category><![CDATA[ cameras ]]></category>
+		<description>
+		<![CDATA[algo book]]>
+		</description>
+	</item>
+	<item>
+		<title><![CDATA[MySQLNotesForProfessionals]]></title>
+		<link>https://github.com/prdalai/book/raw/master/MySQLNotesForProfessionals.pdf/</link>
+		<category><![CDATA[ cameras ]]></category>
+		<description>
+		<![CDATA[algo book]]>
+		</description>
+	</item>
+	<item>
+		<title><![CDATA[NodeJSNotesForProfessionals]]></title>
+		<link>https://github.com/prdalai/book/raw/master/NodeJSNotesForProfessionals.pdf/</link>
+		<category><![CDATA[ cameras ]]></category>
+		<description>
+		<![CDATA[algo book]]>
+		</description>
+	</item>
+	<item>
+		<title><![CDATA[ObjectiveCNotesForProfessionals]]></title>
+		<link>https://github.com/prdalai/book/raw/master/ObjectiveCNotesForProfessionals.pdf/</link>
+		<category><![CDATA[ cameras ]]></category>
+		<description>
+		<![CDATA[algo book]]>
+		</description>
+	</item>
+	<item>
+		<title><![CDATA[OracleDatabaseNotesForProfessionals]]></title>
+		<link>https://github.com/prdalai/book/raw/master/OracleDatabaseNotesForProfessionals.pdf/</link>
+		<category><![CDATA[ cameras ]]></category>
+		<description>
+		<![CDATA[algo book]]>
+		</description>
+	</item>
+	<item>
+		<title><![CDATA[PHPNotesForProfessionals]]></title>
+		<link>https://github.com/prdalai/book/raw/master/PHPNotesForProfessionals.pdf/</link>
+		<category><![CDATA[ cameras ]]></category>
+		<description>
+		<![CDATA[algo book]]>
+		</description>
+	</item>
+	<item>
+		<title><![CDATA[PerlNotesForProfessionals]]></title>
+		<link>https://github.com/prdalai/book/raw/master/PerlNotesForProfessionals.pdf/</link>
+		<category><![CDATA[ cameras ]]></category>
+		<description>
+		<![CDATA[algo book]]>
+		</description>
+	</item>
+	<item>
+		<title><![CDATA[PostgreSQLNotesForProfessionals]]></title>
+		<link>https://github.com/prdalai/book/raw/master/PostgreSQLNotesForProfessionals.pdf/</link>
+		<category><![CDATA[ cameras ]]></category>
+		<description>
+		<![CDATA[algo book]]>
+		</description>
+	</item>
+	<item>
+		<title><![CDATA[PowerShellNotesForProfessionals]]></title>
+		<link>https://github.com/prdalai/book/raw/master/PowerShellNotesForProfessionals.pdf/</link>
+		<category><![CDATA[ cameras ]]></category>
+		<description>
+		<![CDATA[algo book]]>
+		</description>
+	</item>
+	<item>
+		<title><![CDATA[PythonNotesForProfessionals]]></title>
+		<link>https://github.com/prdalai/book/raw/master/PythonNotesForProfessionals.pdf/</link>
+		<category><![CDATA[ cameras ]]></category>
+		<description>
+		<![CDATA[algo book]]>
+		</description>
+	</item>
+	<item>
+		<title><![CDATA[RNotesForProfessionals]]></title>
+		<link>https://github.com/prdalai/book/raw/master/RNotesForProfessionals.pdf/</link>
+		<category><![CDATA[ cameras ]]></category>
+		<description>
+		<![CDATA[algo book]]>
+		</description>
+	</item>
+	<item>
+		<title><![CDATA[ReactJSNotesForProfessionals]]></title>
+		<link>https://github.com/prdalai/book/raw/master/ReactJSNotesForProfessionals.pdf/</link>
+		<category><![CDATA[ cameras ]]></category>
+		<description>
+		<![CDATA[algo book]]>
+		</description>
+	</item>
+	<item>
+		<title><![CDATA[ReactNativeNotesForProfessionals]]></title>
+		<link>https://github.com/prdalai/book/raw/master/ReactNativeNotesForProfessionals.pdf/</link>
+		<category><![CDATA[ cameras ]]></category>
+		<description>
+		<![CDATA[algo book]]>
+		</description>
+	</item>
+	<item>
+		<title><![CDATA[RubyNotesForProfessionals]]></title>
+		<link>https://github.com/prdalai/book/raw/master/RubyNotesForProfessionals.pdf/</link>
+		<category><![CDATA[ cameras ]]></category>
+		<description>
+		<![CDATA[algo book]]>
+		</description>
+	</item>
+	<item>
+		<title><![CDATA[RubyOnRailsNotesForProfessionals]]></title>
+		<link>https://github.com/prdalai/book/raw/master/RubyOnRailsNotesForProfessionals.pdf/</link>
+		<category><![CDATA[ cameras ]]></category>
+		<description>
+		<![CDATA[algo book]]>
+		</description>
+	</item>
+	<item>
+		<title><![CDATA[SQLNotesForProfessionals]]></title>
+		<link>https://github.com/prdalai/book/raw/master/SQLNotesForProfessionals.pdf/</link>
+		<category><![CDATA[ cameras ]]></category>
+		<description>
+		<![CDATA[algo book]]>
+		</description>
+	</item>
+	<item>
+		<title><![CDATA[SpringFrameworkNotesForProfessionals]]></title>
+		<link>https://github.com/prdalai/book/raw/master/SpringFrameworkNotesForProfessionals.pdf/</link>
+		<category><![CDATA[ cameras ]]></category>
+		<description>
+		<![CDATA[algo book]]>
+		</description>
+	</item>
+	<item>
+		<title><![CDATA[SwiftNotesForProfessionals]]></title>
+		<link>https://github.com/prdalai/book/raw/master/SwiftNotesForProfessionals.pdf/</link>
+		<category><![CDATA[ cameras ]]></category>
+		<description>
+		<![CDATA[algo book]]>
+		</description>
+	</item>
+	<item>
+		<title><![CDATA[TypeScriptNotesForProfessionals]]></title>
+		<link>https://github.com/prdalai/book/raw/master/TypeScriptNotesForProfessionals.pdf/</link>
+		<category><![CDATA[ cameras ]]></category>
+		<description>
+		<![CDATA[algo book]]>
+		</description>
+	</item>
+	<item>
+		<title><![CDATA[VBANotesForProfessionals]]></title>
+		<link>https://github.com/prdalai/book/raw/master/VBANotesForProfessionals.pdf/</link>
+		<category><![CDATA[ cameras ]]></category>
+		<description>
+		<![CDATA[algo book]]>
+		</description>
+	</item>
+	<item>
+		<title><![CDATA[VisualBasic_NETNotesForProfessionals]]></title>
+		<link>https://github.com/prdalai/book/raw/master/VisualBasic_NETNotesForProfessionals.pdf/</link>
+		<category><![CDATA[ cameras ]]></category>
+		<description>
+		<![CDATA[algo book]]>
+		</description>
+	</item>
+	<item>
+		<title><![CDATA[XamarinFormsNotesForProfessionals]]></title>
+		<link>https://github.com/prdalai/book/raw/master/XamarinFormsNotesForProfessionals.pdf/</link>
+		<category><![CDATA[ cameras ]]></category>
+		<description>
+		<![CDATA[algo book]]>
+		</description>
+	</item>
+	<item>
+		<title><![CDATA[iOSNotesForProfessionals]]></title>
+		<link>https://github.com/prdalai/book/raw/master/iOSNotesForProfessionals.pdf/</link>
+		<category><![CDATA[ cameras ]]></category>
+		<description>
+		<![CDATA[algo book]]>
+		</description>
+	</item>
+	<item>
+		<title><![CDATA[jQueryNotesForProfessionals]]></title>
+		<link>https://github.com/prdalai/book/raw/master/jQueryNotesForProfessionals.pdf/</link>
+		<category><![CDATA[ cameras ]]></category>
+		<description>
+		<![CDATA[algo book]]>
+		</description>
+	</item>
+	
+	</channel>
+	</rss>
+		
