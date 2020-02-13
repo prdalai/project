@@ -2,19 +2,24 @@
 <rss version="2.0">
 
 <channel>
-  <title>W3Schools Home Page</title>
-  <link>https://www.w3schools.com</link>
+  <title>Books</title>
+  <link>https://raw.githubusercontent.com/</link>
   <description>Free web building tutorials</description>
+  
   <item>
-    <title>RSS Tutorial</title>
-    <link>https://www.w3schools.com/xml/xml_rss.asp</link>
-    <description>New RSS tutorial on W3Schools</description>
-  </item>
-  <item>
-    <title>XML Tutorial</title>
-    <link>https://www.w3schools.com/xml</link>
-    <description>New XML tutorial on W3Schools</description>
-  </item>
+<title><![CDATA[Algo]]></title>
+<link>
+https://drive.google.com/open?id=1-G60dHt9-YmCt_zbYMJ-X-4l8KAzlwVr
+</link>
+<category>
+<![CDATA[ cameras ]]>
+</category>
+<description>
+<![CDATA[
+algo book
+]]>
+</description>
+</item>
 </channel>
 
 </rss>
