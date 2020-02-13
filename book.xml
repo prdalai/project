@@ -7,8 +7,18 @@
   <description>Free web building tutorials</description>
   
   <item>
-<title><![CDATA[Algo]]></title>
+<title><![CDATA[AlgorithmsNotesForProfessionals]]></title>
 <link>https://github.com/prdalai/book/raw/master/AlgorithmsNotesForProfessionals.pdf/</link>
+<category><![CDATA[ cameras ]]></category>
+<description>
+<![CDATA[
+algo book
+]]>
+</description>
+</item>
+<item>
+<title><![CDATA[AndroidNotesForProfessionals]]></title>
+<link>https://github.com/prdalai/book/raw/master/AndroidNotesForProfessionals.pdf/</link>
 <category><![CDATA[ cameras ]]></category>
 <description>
 <![CDATA[
